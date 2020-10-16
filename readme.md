@@ -1,4 +1,4 @@
-# ZSA's fork of QMK Firmware 
+# Astrid's fork of ZSA's fork of QMK Firmware 
 
 [![Current Version](https://img.shields.io/github/tag/ErgoDox-EZ/qmk_firmware.svg)](https://github.com/ErgoDox-EZ/qmk_firmware/tags)
 [![Build Status](https://travis-ci.org/ErgoDox-EZ/qmk_firmware.svg?branch=master)](https://travis-ci.org/ErgoDox-EZ/qmk_firmware)
